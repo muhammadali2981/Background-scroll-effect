@@ -17,16 +17,8 @@ This project demonstrates:
 
 ## 🚀 Live Demo  
 👉 [Click here to try it on GitHub Pages](https://muhammadali2981.github.io/window-scroll-background-effect/)  
-> Replace `#` with your actual GitHub Pages link.  
 
----
 
-## 📂 How It Works  
-1. Open `index.html` in your browser.  
-2. Scroll up and down the page.  
-3. Watch the background colors or effects change smoothly as you scroll.  
-
----
 
 ## 💡 Why This Project?  
 This project is designed to show how **scroll events and JavaScript** can be used to enhance user experience with **interactive backgrounds**.  
