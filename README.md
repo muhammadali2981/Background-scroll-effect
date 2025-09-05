@@ -16,7 +16,7 @@ This project demonstrates:
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to try it on GitHub Pages](#)  
+👉 [Click here to try it on GitHub Pages](https://github.com/muhammadali2981/Background-scroll-effect.git)  
 > Replace `#` with your actual GitHub Pages link.  
 
 ---
